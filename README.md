@@ -67,7 +67,7 @@ The database includes the following tables:
 
 ## Walkthrough Video
 A walkthrough video demonstrating the functionality of the application can be found here:
-[Walkthrough Video](<video-url>)
+[Walkthrough Video](https://vimeo.com/1066232400?share=copy#t=0)
 
 ## Contribution
 Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
